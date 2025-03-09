@@ -21,11 +21,6 @@ git clone https://github.com/ankithreddys/GEMINI_GRADIO_ASST.git
 cd GEMINI_GRADIO_ASST
 ```
 
-Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 Create a `.env` file in the root directory and add your API keys:
 ```ini
 GROQ_API_KEY=your_groq_api_key
