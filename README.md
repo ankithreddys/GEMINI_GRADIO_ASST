@@ -17,8 +17,8 @@ Make sure you have the following installed:
 ## Installation
 Clone the repository and navigate to the project directory:
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/ankithreddys/GEMINI_GRADIO_ASST.git
+cd GEMINI_GRADIO_ASST
 ```
 
 Install the required dependencies:
